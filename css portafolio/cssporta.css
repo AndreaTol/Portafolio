@@ -1,0 +1,42 @@
+nav {
+    background-color: #AA78A6;
+    width: auto;
+    height: 50px;
+    word-spacing: 50px;
+    padding: 15px;
+    margin: 5;
+}
+
+.P1 {
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.P1:hover {
+    background-color: #4a3348;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+h1 {
+    font-family: "NauticusSansPress-Bold";
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+   flex-direction: column;
+   align-items: center
+   
+   ;}
+ 
