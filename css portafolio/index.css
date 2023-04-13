@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Girly Minnie';
+    src: url('/Fonts/Girly\ Minnie.ttf') format('opentype');
+  }
+  
+body {
+    background-color: black;
+}
+
+.nombreprin {
+    margin: 5rem;
+}
+
+.hola {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.input{
+    color: mediumspringgreen;
+    font-family: 'Girly Minnie';
+    src: url('/Fonts/Girly\ Minnie.ttf') ;
+    font-size: larger;
+    
+}
